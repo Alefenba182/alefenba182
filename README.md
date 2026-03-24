@@ -20,6 +20,6 @@
 </div>
 <div> 
 
-  ![Snake animation](https://github.com/alefenba/alefenba/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/alefenba182/alefenba182/blob/output/github-contribution-grid-snake.svg)
  
 </div>
