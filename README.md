@@ -18,8 +18,3 @@
     <img align="center" alt="Alefe-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="Alefe-javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 </div>
-<div> 
-
-  ![Snake animation](https://github.com/alefenba182/alefenba182/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
