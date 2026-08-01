@@ -2,7 +2,7 @@
 - 👨🏻‍💻 Formado em Analise e Desenvolvimento de Sistemas
 - 🐍 Atualmente estudando Desenvolvimento Full Stack (Html, CSS, Javascript, Python)
 - 🤝 Procuro colaborar em Projetos Web Full Stack
-- 📩 Contate-me no email: apc.alefe@outlook.com  
+- 📩 Contate-me no email: pc.alefe@outlook.com  
 
 
 <div align="center">
